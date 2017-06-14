@@ -1,4 +1,4 @@
-package java.main.com.rabbit;
+package rabbit;
 
 /**
  * Created by Stanislav Lentsov

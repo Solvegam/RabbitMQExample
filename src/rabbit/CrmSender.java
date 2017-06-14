@@ -1,4 +1,4 @@
-package java.main.com.rabbit;
+package rabbit;
 
 import java.util.Arrays;
 

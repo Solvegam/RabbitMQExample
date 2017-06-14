@@ -1,10 +1,8 @@
-package java.main.com.rabbit;
+package rabbit;
 
 import java.util.Arrays;
 
 public class CombSender {
-
-	private final static String QUEUE_NAME = "durability test";
 
 	public static void main(String[] argv) throws Exception {
 		RabbitConnector rabbitConnector = new RabbitConnector();

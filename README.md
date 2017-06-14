@@ -1,4 +1,4 @@
-![rabbit logo](src/java/main/resources/rabbit-logo.jpg)
+![rabbit logo](src/resources/rabbit-logo.jpg)
 
 **This is an example of using rabbitMQ**
 
