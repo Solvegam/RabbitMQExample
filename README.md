@@ -1,4 +1,4 @@
-**This is example of using rabbitMQ**
+**This is an example of using rabbitMQ**
 
 The idea is to have to producers that will share:
 * one rabbitMQ server
