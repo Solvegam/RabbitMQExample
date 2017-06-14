@@ -1,4 +1,4 @@
-package com.rabbit;
+package java.main.com.rabbit;
 
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.Channel;

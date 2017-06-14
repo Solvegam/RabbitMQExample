@@ -1,4 +1,4 @@
-package com.rabbit;
+package java.main.com.rabbit;
 
 /**
  * Created by Stanislav Lentsov
