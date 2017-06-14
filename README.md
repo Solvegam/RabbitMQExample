@@ -1,4 +1,5 @@
 ![rabbit logo](src/java/main/resources/rabbit-logo.jpg)
+
 **This is an example of using rabbitMQ**
 
 The idea is to have two producers that will share:
